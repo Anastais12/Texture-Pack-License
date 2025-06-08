@@ -1,6 +1,6 @@
 Minecraft Resource Pack License
 
-Copyright © [Your Name] [Year]
+Copyright © cl1ppz12 2025
 
 This resource pack is the intellectual property of [Your Name].
 
